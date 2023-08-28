@@ -16,7 +16,7 @@ alder = alder + 5;
 console.log(alder);
 
 //4
-let myNumber = 1;
+let myNumber1 = 1;
 
 //5
 // Opret en variabel kaldet myNumber med værdien 1
